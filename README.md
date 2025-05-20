@@ -1,1 +1,1 @@
-# 157-Project
+# Automated Dice Counter
